@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LabVIDMAutomationService.Properties" GeneratedClassName="SalesEngineers">
+  <Profiles />
+  <Settings>
+    <Setting Name="DB_CONNECTION_STRING_WORKSHOP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Server=VLP-API-CB\SQLEXPRESS;Database=workshops;User=sa;Password=T3S5utDeE@j7tz*c;</Value>
+    </Setting>
+    <Setting Name="VIDM_API_BASE_URL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://ws1internal.vmwareidentity.com/</Value>
+    </Setting>
+    <Setting Name="VIDM_OAUTH_USERNAME" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AirWatchSESSP</Value>
+    </Setting>
+    <Setting Name="VIDM_OAUTH_PASSWORD" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">yhSSvZvKDQlrA6UBgM3vaV5bnTC6jtLvHBTGIEPzBrBrGyhK</Value>
+    </Setting>
+    <Setting Name="SMTP_SERVER_HOSTNAME" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">email-smtp.us-west-2.amazonaws.com</Value>
+    </Setting>
+    <Setting Name="SMTP_SERVER_PORT" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">587</Value>
+    </Setting>
+    <Setting Name="SMTP_SERVICE_ACCT_EMAIL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AKIAZF2I2FFU5XDHVDFP</Value>
+    </Setting>
+    <Setting Name="SMTP_SERVICE_ACCT_PASSWORD" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">BNhpFck8BinfwCQq8N7Tb801RZXmPGS42SXOIUhGVqVP</Value>
+    </Setting>
+    <Setting Name="SMTP_SERVICE_ACCT_DISPLAY_NAME" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Workshop Administrator</Value>
+    </Setting>
+    <Setting Name="VIDM_DEFAULT_DOMAIN" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">vmwareidentity.com</Value>
+    </Setting>
+    <Setting Name="SMTP_SERVICE_ACCT_DISPLAY_EMAIL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">no-reply@livefire.solutions</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
